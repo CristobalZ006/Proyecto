@@ -9,10 +9,14 @@
   cursor: pointer;
 }
 body {
-  background-image: url('yoru.jpg');
-  background-size: cover;         
-  background-position: center;     
-  background-repeat: no-repeat;    
-  background-attachment: fixed;    
-  background-color: #111;       
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(rgba(15, 25, 35, 0.75), rgba(15, 25, 35, 0.75)), url('/yoru.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: black; 
+  color: #ffffff;
+  min-height: 100vh;
 }
