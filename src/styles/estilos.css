@@ -1,0 +1,18 @@
+.boton-comprar {
+  background-color: white; 
+  color: blue;              
+  border: none;
+  padding: 10px;
+  width: 100%;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+body {
+  background-image: url('yoru.jpg');
+  background-size: cover;         
+  background-position: center;     
+  background-repeat: no-repeat;    
+  background-attachment: fixed;    
+  background-color: #111;       
+}
